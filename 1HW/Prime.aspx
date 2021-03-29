@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="_1HW.Default" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Prime.aspx.cs" Inherits="_1HW.Prime" %>
 
 <!DOCTYPE html>
 
